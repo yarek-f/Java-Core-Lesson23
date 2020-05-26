@@ -85,6 +85,7 @@ public class Faction {
 	};
 }
 
+
 interface MethodDeputy{
 	void method(List<Deputy> deputyList);
 }
